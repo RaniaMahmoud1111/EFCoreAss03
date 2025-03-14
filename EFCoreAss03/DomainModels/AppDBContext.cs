@@ -51,7 +51,6 @@ namespace EFCoreAss03.DomainModels
                 
 
 
-
           ////compoite key
           //  modelBuilder.Entity<CourseInstructor>()
           //      .HasKey(ci=> new {ci.CourseId,ci.InstructorId});
